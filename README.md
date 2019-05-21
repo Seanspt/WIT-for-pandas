@@ -1,5 +1,5 @@
 # wit-for-pandas
-WIT-for pandas is a wrapper of [whatif-tool](https://github.com/tensorflow/tensorboard/tree/master/tensorboard/plugins/interactive_inference) for non-tensorflow users.
+WIT-for-pandas is a wrapper of [whatif-tool](https://github.com/tensorflow/tensorboard/tree/master/tensorboard/plugins/interactive_inference) for non-tensorflow users.
 
 # Install dependencies
 
